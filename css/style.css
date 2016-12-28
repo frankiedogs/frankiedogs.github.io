@@ -1,7 +1,7 @@
 /* ==== Google font ==== */
 @import url('http://fonts.googleapis.com/css?family=Lato:400,300,700,900');
 /* === fontawesome === */
-@import url('font-awesome.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 /* ==== overwrite bootstrap standard ==== */
 @import url('overwrite.css');
 @import url('animate.css');
@@ -110,7 +110,7 @@ ul.social-network li {
 	background-color:#f91336;
 }
 .social-network a.icoInstagram:hover {
-	background-color:#3B5998;
+	background-color:#e95950;
 }
 .social-network a.icoFacebook:hover i,
 .social-network a.icoTwitter:hover i,
